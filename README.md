@@ -23,3 +23,5 @@ mover "prueba\carlos.txt" "prueba2\carlos.txt"
 
 ![imagen](https://github.com/SpardaHunter/SpardaUpdater/assets/155873668/24a96245-35e5-4358-a03f-45c4cecb9be5)
 
+
+
