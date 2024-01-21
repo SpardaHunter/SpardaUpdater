@@ -1,4 +1,4 @@
-# SpardaUpdater
+# SpardaUpdaterV2
 Programa para realizar acciones a una unidad
 
 ¿Como funciona?
